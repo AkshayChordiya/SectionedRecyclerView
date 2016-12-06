@@ -2,6 +2,10 @@
 SectionedRecyclerView shows to implement Inbox style sections like Today, Yesterday, etc in any app.
 Check out Material Design guidelines (https://material.io/) to build the UI in Material.
 
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/AkshayChordiya/SectionedRecyclerView/master/device_section_1.png)
+
 Based upon
 -------
 https://gist.github.com/gabrielemariotti/4c189fb1124df4556058#file-simplesectionedrecyclerviewadapter-java-L106
