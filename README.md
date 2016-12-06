@@ -1,6 +1,7 @@
 # SectionedRecyclerView
-SectionedRecyclerView shows to implement Inbox style sections like Today, Yesterday, etc in any app.
+SectionedRecyclerView is a sample app. It shows how to implement Inbox style sections like Today, Yesterday, etc in any app.
 Check out Material Design guidelines (https://material.io/) to build the UI in Material.
+Note: It is not a library. Just sample app to explain building Inbox style sections.
 
 ## Screenshot
 
